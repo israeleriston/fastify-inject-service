@@ -1,0 +1,26 @@
+{
+  "name": "fastify-inject-service",
+  "version": "1.0.0",
+  "description": "Inject Services on fastify instance the request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israeleriston/fastify-inject-service.git"
+  },
+  "keywords": [],
+  "author": "Israel Ériston <israel.eriston@gmail.com> (https://github.com/israeleriston/migration-tools)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israeleriston/fastify-inject-service/issues"
+  },
+  "homepage": "https://github.com/israeleriston/fastify-inject-service#readme",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "eslint": "^4.19.1",
+    "nyc": "^11.7.3",
+    "standard": "^11.0.1"
+  }
+}
